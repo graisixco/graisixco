@@ -1,16 +1,59 @@
-## Hi there 👋
+# GRAISIX
 
-<!--
-**graisixco/graisixco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building the future through Software, AI, Games & Robotics.
 
-Here are some ideas to get you started:
+GRAISIX is a technology company focused on creating innovative products across **software, artificial intelligence, gaming, and robotics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We build technology designed to solve real-world problems, create new experiences, and make advanced technology more accessible.
+
+---
+
+## 🚀 What We Build
+
+| Division | Focus |
+|---|---|
+| 💻 **GRAISIX Software** | Apps, platforms and useful software |
+| 🤖 **GRAISIX AI** | Artificial intelligence and intelligent systems |
+| 🎮 **GRAISIX Games** | Games and interactive experiences |
+| ⚙️ **GRAISIX Robotics** | Smart devices, electronics and robotics |
+
+---
+
+## 🔬 Current Projects
+
+### Relay
+A platform connecting businesses with people looking for employment opportunities.
+
+### Marber Runner
+A game currently in development.
+
+### GRAISIX Music
+A portable smart music-player concept combining hardware, software and connected audio.
+
+### GRAISIX Robotics
+Exploring innovative consumer electronics, robotics and smart devices.
+
+---
+
+## 👨‍💻 Founder
+
+### Samarveer Naik
+
+**Founder — GRAISIX**
+
+Building GRAISIX with a vision to create technology across multiple fields and turn ideas into real products.
+---
+
+## 🛠️ Technology
+
+We work across:
+
+`AI` `Software` `Web` `Mobile` `Robotics` `Electronics` `Game Development`
+
+---
+
+### GRAISIX
+
+**Software • AI • Games • Robotics**
+
+*Building what's next.*
