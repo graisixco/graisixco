@@ -37,7 +37,7 @@ Exploring innovative consumer electronics, robotics and smart devices.
 
 ## 👨‍💻 Founder
 
-### Samarveer Naik
+### Samarveer Bipin Naik
 
 **Founder — GRAISIX**
 
