@@ -1,9 +1,22 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://graisix.com/</loc></url>
-  <url><loc>https://graisix.com/projects/desktop-buddy.html</loc></url>
-  <url><loc>https://graisix.com/projects/gaming-console.html</loc></url>
-  <url><loc>https://graisix.com/projects/marber-runner.html</loc></url>
-  <url><loc>https://graisix.com/projects/portable-music-system.html</loc></url>
-  <url><loc>https://graisix.com/projects/relay.html</loc></url>
+  <url>
+    <loc>https://graisix.com/</loc>
+  </url>
+  <url>
+    <loc>https://graisix.com/projects/desktop-buddy.html</loc>
+  </url>
+  <url>
+    <loc>https://graisix.com/projects/gaming-console.html</loc>
+  </url>
+  <url>
+    <loc>https://graisix.com/projects/marber-runner.html</loc>
+  </url>
+  <url>
+    <loc>https://graisix.com/projects/portable-music-system.html</loc>
+  </url>
+  <url>
+    <loc>https://graisix.com/projects/relay.html</loc>
+  </url>
 </urlset>
