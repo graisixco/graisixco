@@ -87,9 +87,6 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold2);outline-offs
 <script src="js/site-config.js"></script>
 <script src="js/email-tlds.js"></script>
 <script src="js/script.js"></script>
-<script>
-(function(){const b=document.getElementById("burgerBtn"),m=document.getElementById("mobileMenu");if(!b||!m)return;const close=()=>{m.classList.remove("open");b.setAttribute("aria-expanded","false");b.setAttribute("aria-label","Open menu");m.setAttribute("aria-hidden","true")};b.addEventListener("click",()=>{const open=m.classList.toggle("open");b.setAttribute("aria-expanded",String(open));b.setAttribute("aria-label",open?"Close menu":"Open menu");m.setAttribute("aria-hidden",String(!open))});m.querySelectorAll("a").forEach(a=>a.addEventListener("click",close));document.addEventListener("keydown",e=>{if(e.key==="Escape")close()});window.addEventListener("resize",()=>{if(innerWidth>760)close()});const y=document.getElementById("currentYear");if(y)y.textContent=new Date().getFullYear()})();
-</script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Project","name":"GRAISIX Technologies","url":"https://graisix.com/","description":"An independent technology brand and project exploring robotics, artificial intelligence, software, games, and innovation.","founder":{"@type":"Person","name":"Samarveer Bipin Naik"},"sameAs":["https://www.instagram.com/graisix.com26/?hl=en","https://www.youtube.com/@GRAISIX"]}
 </script>
